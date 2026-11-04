@@ -5,8 +5,8 @@ A modern, responsive professional website showcasing full-stack development skil
 ![My Prof Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![Mobile Responsive](https://img.shields.io/badge/Mobile-Responsive-blue) ![PDF Integration](https://img.shields.io/badge/PDF-Integrated-orange)
 
 ## 🚀 **Live Demo**
-- **My Prof:** [https://osa277.github.io/portfolio/](https://osa277.github.io/portfolio/)
-- **Resume:** [Interactive Resume Page](https://osa277.github.io/portfolio/pages/resume.html)
+- **My Prof:** [https://osa277.github.io/myprof/](https://osa277.github.io/myprof/)
+- **Resume:** [Interactive Resume Page](https://osa277.github.io/myprof/pages/resume.html)
 
 ## ✨ **Key Features**
 
@@ -116,7 +116,7 @@ my-prof/
 
 ### **1. Clone Repository**
 ```bash
-git clone https://github.com/Osa277/Portfolio.git my-prof
+git clone https://github.com/Osa277/myprof.git my-prof
 cd my-prof
 ```
 
@@ -196,7 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 **Author**
 
 **Asiyanbi Olalekan Samuel**
-- My Prof: [https://osa277.github.io/portfolio/](https://osa277.github.io/portfolio/)
+- My Prof: [https://osa277.github.io/myprof/](https://osa277.github.io/myprof/)
 - GitHub: [@Osa277](https://github.com/Osa277)
 - Email: samuel.olalekan@email.com
 
@@ -225,6 +225,6 @@ My Prof demonstrates:
 
 ⭐ **Star this repository if you found it helpful!**
 
-🐛 **Found a bug?** [Open an issue](https://github.com/Osa277/Portfolio/issues)
+🐛 **Found a bug?** [Open an issue](https://github.com/Osa277/myprof/issues)
 
-💡 **Have a suggestion?** [Start a discussion](https://github.com/Osa277/Portfolio/discussions)
+💡 **Have a suggestion?** [Start a discussion](https://github.com/Osa277/myprof/discussions)
