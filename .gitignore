@@ -111,3 +111,5 @@ config.json
 secrets.json
 private/
 sensitive/
+.vercel
+.env*
